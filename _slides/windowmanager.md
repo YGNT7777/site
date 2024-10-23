@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Window-manager
+title: Διαχειριστής Παραθύρων
 image_url: /images/windowmanager.png
 caption: Διαφάνεις για το Window manager
 slides:
