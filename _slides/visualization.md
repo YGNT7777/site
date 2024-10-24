@@ -23,5 +23,4 @@ slides:
   - winamp
   - ical
   - symbolic-abstraction
-  - i3-window-manager
 ---
