@@ -14,4 +14,4 @@ tags:
 ---
 
 
-{include % cs-terminal_interaction.md %}
+{% include cs-terminal_interaction.md %}
