@@ -12,3 +12,6 @@ tags:
   - Computer Terminal
   - HCI
 ---
+
+
+{include % cs-terminal_interaction.md %}
