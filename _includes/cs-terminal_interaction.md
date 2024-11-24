@@ -34,6 +34,7 @@ alt="Datapoint3300" %}
 </figure>
 
 <figure id ="fig:vt52">
+<figcaption>
 {% include figure image_path="/images/vt52.jpg" caption=""
 alt="VT52" %}
 Το VT52, που κυκλοφόρησε τον Σεπτέμβριο του 1975, αποτέλεσε
