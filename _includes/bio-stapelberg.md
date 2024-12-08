@@ -16,7 +16,7 @@ alt="Michael Stapelberg" %}
 </figcaption>
 </figure>
 <figure id="fig:i3">
-<% include figure image_path="/images/i3window.png" caption=""
+{% include figure image_path="/images/i3window.png" caption=""
 alt="i3 window manager" %}
 <figcaption>
 Ο i3 είναι ένας διαχειριστής παραθύρων με σχεδίαση 'tiling', 
