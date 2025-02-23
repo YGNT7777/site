@@ -21,3 +21,4 @@ tags:
 </p>
 <script async src="https://public.codepenassets.com/embed/index.js"></script>
 
+Άσκηση: Να ελέγξετε αν όλα τα πλήκτρα στο πληκτρολόγιο σας λειτουργούν σωστά
